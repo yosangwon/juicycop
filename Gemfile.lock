@@ -62,6 +62,7 @@ DEPENDENCIES
   guard
   guard-rubocop
   nokogiri (~> 1.6)
+  rainbow
   rake
   rubocop (~> 0.43.0)
 

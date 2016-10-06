@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rake'
 gem 'nokogiri', '~> 1.6'
+gem 'rainbow'
 
 group :development, :test do
   gem 'guard'
