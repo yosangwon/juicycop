@@ -1,0 +1,10 @@
+AllCops:
+  TargetRubyVersion: 2.3
+  Exclude:
+    - "lib/juicycop.rb"
+
+Style/AsciiComments:
+  Enabled: false
+
+Style/FrozenStringLiteralComment:
+  Enabled: false
