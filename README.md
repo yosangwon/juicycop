@@ -8,6 +8,8 @@ A Korean Spelling checker for markdown for command line interfaces or CIs. (in f
 
 **주의: 상업적 목적이나 비공개적 목적으로 사용하는 경우에 일어나는 일에 대해서 책임지지 않습니다.**
 
+[![Build Status](https://travis-ci.org/devleoper/juicycop.svg?branch=master)](https://travis-ci.org/devleoper/juicycop)
+
 ## Requirements
 
 Ruby 2.3 or higher.
